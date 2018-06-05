@@ -35,7 +35,7 @@ begintemplate squidCell
 			insert k
 			//ena = 50
 			//ek = -80
-			
+			// Make a comment here
 			gnabar_na = .12	// (siemens/cm2)
 			nao = 79.8
 				
